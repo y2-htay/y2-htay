@@ -19,3 +19,9 @@ I'm currently developing a face recognition system for home security, focusing o
 [![](https://visitcount.itsvg.in/api?id=y2-htay&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/y2-htay/y2-htay/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/y2-htay/y2-htay/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/y2-htay/y2-htay/github-snake.svg" />
+</picture>
